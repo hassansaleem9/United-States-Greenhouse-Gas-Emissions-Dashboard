@@ -55,8 +55,3 @@ GROUP BY state_abbr;
 * Data Visualization
 * Databricks SQL
 
-## Author
-
-Hassan Saleem
-
-Master's Student in Information Technology | Data Analytics & Engineering
